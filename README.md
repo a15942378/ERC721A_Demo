@@ -4,7 +4,7 @@ The smart contract made when NFT was popular
 
 front end project is RWDDemo
 
-learned a lot of relevant knowledge
+I learned a lot of relevant knowledge
 
 For example, randomly generate pictures, layer stacking, IPFS (InterPlanetary File System), NFT feature files、contract verification
 
